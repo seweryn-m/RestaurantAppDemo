@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{5E28BD05-1B1F-48F1-8259-AF4FC2B693DC}|Default">
+  <MonoDevelop.Ide.ItemProperties.RestaurantApp.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestaurantApp/App.xaml.cs">
+    <Files>
+      <File FileName="RestaurantApp/Views/MainView.xaml" Line="23" Column="49" />
+      <File FileName="RestaurantApp/Views/OrderView.xaml" Line="36" Column="68" />
+      <File FileName="RestaurantApp/App.xaml.cs" Line="14" Column="55" />
+      <File FileName="RestaurantApp/ViewModels/OrderViewModel.cs" Line="1" Column="1" />
+      <File FileName="RestaurantApp/Views/OrderView.xaml.cs" Line="30" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestaurantApp" expanded="True">
+            <Node name="RestaurantApp" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="OrderView.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="RestaurantApp.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RestaurantApp HideGettingStarted="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RestaurantApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+</Properties>

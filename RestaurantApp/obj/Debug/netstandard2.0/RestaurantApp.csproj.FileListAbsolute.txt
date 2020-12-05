@@ -1,0 +1,15 @@
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/bin/Debug/netstandard2.0/RestaurantApp.deps.json
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/bin/Debug/netstandard2.0/RestaurantApp.dll
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/bin/Debug/netstandard2.0/ref/RestaurantApp.dll
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/bin/Debug/netstandard2.0/RestaurantApp.pdb
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.csprojAssemblyReference.cache
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.AssemblyInfoInputs.cache
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.AssemblyInfo.cs
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.csproj.CoreCompileInputs.cache
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.dll
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/ref/RestaurantApp.dll
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/RestaurantApp.pdb
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/Views/MainView.xaml.g.cs
+/Users/seweryn/Projekty/Demos/Xamarin/RestaurantApp/RestaurantApp/obj/Debug/netstandard2.0/Views/OrderView.xaml.g.cs
